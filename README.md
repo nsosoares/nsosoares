@@ -1,6 +1,6 @@
-### Seja bem-vindo! Me chamo Nicolas Soares. :)
+## Seja bem-vindo! Me chamo Nicolas Soares. :)
 
-Here are some ideas to get you started:
+###Um pouco sobre mim:
 
 - 🔭 Hoje trabalho como desenvolvedor de software .NET
 - 🌱 Estudando aquitetura de software
