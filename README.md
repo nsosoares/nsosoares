@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem-vindo! Me chamo Nicolas Soares. :)
 
 Here are some ideas to get you started:
 
