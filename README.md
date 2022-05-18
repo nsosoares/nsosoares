@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim:
 
-- 🔭 Hoje trabalho como desenvolvedor de software .NET
+- 🔭 Hoje trabalho como desenvolvedor .NET
 - 🌱 Estudando aquitetura de software
 - 📩 Contate-me no email: nsosoares@gmail.com
 
