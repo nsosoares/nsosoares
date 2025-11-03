@@ -6,13 +6,6 @@
 - 🌱 Estudando arquitetura de software
 - 📩 Contate-me no email: nsosoares@gmail.com
 
-<b>Minhas contribuições:</b>
-<div align="left">
-  <a href="https://github.com/nsosoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsosoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </a>
-</div>
-
 <hr />
 
 <b>Tecnologias e Linguagens mais utilizadas:</b>
@@ -32,7 +25,6 @@
  
  <b>Siga-me nas minhas redes sociais, obrigado! 😊</b>
 <div> 
-  <a href="https://instagram.com/nsosoares_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:nsosoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-soares-522533220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
